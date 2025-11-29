@@ -24,8 +24,9 @@ C · C++ · C# · Java · Go · Python · Haskell · Rust
 
 ## GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-morsy33&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-morsy33&theme=codeSTACKr&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-morsy33&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-morsy33&layout=compact&theme=codeSTACKr&hide_border=true&langs_count=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamed-morsy33&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamed-morsy33&theme=github_dark)
