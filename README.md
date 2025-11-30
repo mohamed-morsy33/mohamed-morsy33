@@ -10,7 +10,7 @@ Currently diving deep into **open-source contributions** and building tools that
 
 ```text
 Languages I speak (to computers):
-C · C++ · C# · Java · Go · Python · Haskell · Rust
+C · C++ · C# · Java · Go · Python · Rust
 ```
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -19,7 +19,9 @@ C · C++ · C# · Java · Go · Python · Haskell · Rust
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+
+<!--![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)-->
+
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## GitHub Stats
