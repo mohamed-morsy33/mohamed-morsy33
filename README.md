@@ -1,8 +1,6 @@
 # Hey there, I'm Mohamed Morsy
 
-I'm a guy that sees programming as more than just a tool, but an art.
-
-Currently diving deep into **open-source contributions** and building tools that matter to the community.
+Just a guy that sees programming as more than just a tool, but an art.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70d246&width=435&lines=Hi%2C+I'm+Mohamed+Morsy;Physics+%2B+Math+%2B+Code;Open+Source+Enthusiast)
 
