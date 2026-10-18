@@ -1,6 +1,4 @@
-# Hey, I'm Mohamed Morsy
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70d246&width=435&lines=Hi%2C+I'm+Mohamed+Morsy;Physics+%2B+Math+%2B+Code;Open+Source+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70d246&width=435&lines=hi%2C+i'm+Mohamed+Morsy;i'm+an+open+source+enthusiast)
 
 ## languages i like
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
