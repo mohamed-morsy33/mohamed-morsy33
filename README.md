@@ -1,16 +1,8 @@
-# Hey there, I'm Mohamed Morsy
-
-Just a guy that sees programming as more than just a tool, but an art.
+# Hey, I'm Mohamed Morsy
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70d246&width=435&lines=Hi%2C+I'm+Mohamed+Morsy;Physics+%2B+Math+%2B+Code;Open+Source+Enthusiast)
 
-## Tech Stack
-
-```text
-Languages I speak (to computers):
-C · C++ · C# · Java · Go · Python
-```
-
+## languages i like
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -19,8 +11,7 @@ C · C++ · C# · Java · Go · Python
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)-->
 
-## GitHub Stats
-
+## some stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-morsy33&theme=github_dark)
 
