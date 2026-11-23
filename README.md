@@ -30,9 +30,7 @@
 
 Instead of learning purely from data, the model is also penalised for violating a known physical law, usually a PDE. For a network $u_{\theta}(x, t)$ the loss looks like:
 
-$
-L = L_{data} + \lambda \cdot \lVert N[u_{\theta}](x, t) \rVert^2
-$
+$L = L_{data} + \lambda \cdot \lVert N[u_{\theta}](x, t) \rVert^2$
 
 where $N$ is the differential operator of the governing equation. You don't need as much data, and the solutions follow real-world physics.
 
