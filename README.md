@@ -70,14 +70,4 @@ Currently reading: *A Mind for Numbers: How to Excel at Math and Science* by Bar
 
 <img alt="GitHub metrics" src="./metrics.svg">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-morsy33&theme=github_dark">
-  <img alt="profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamed-morsy33&theme=github">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamed-morsy33&theme=github_dark">
-  <img alt="productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamed-morsy33&theme=github">
-</picture>
-
 </div>
